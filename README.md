@@ -1,7 +1,9 @@
 
 # Tailwind CSS and Typography with Next.js
 
-visit this link([https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography](https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography)) for explain of every single step.
+Website: **[alhaqi](https://alhaqi.com)**
+
+Visit [https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography](https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography)) for explain of every single step.
 
 ## Features:
 
