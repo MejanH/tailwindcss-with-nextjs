@@ -3,7 +3,7 @@
 
 Website: **[alhaqi](https://alhaqi.com)**
 
-Visit [https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography](https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography)) for explain of every single step.
+Visit [https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography](https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography) for explain of every single step.
 
 ## Features:
 
