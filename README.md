@@ -15,4 +15,4 @@ Visit [https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography](https:/
 
 # How to Install
 
-Just colne the repo & run `yarn install` or `npm install` from terminal.
+Just clone the repo & run `yarn install` or `npm install` from terminal.
