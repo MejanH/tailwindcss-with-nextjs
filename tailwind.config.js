@@ -1,14 +1,11 @@
 module.exports = {
   purge: ["./components/**/*.{js,ts,jsx,tsx}", "./pages/**/*.{js,ts,jsx,tsx}"],
-  future: {
-    removeDeprecatedGapUtilities: true,
-    purgeLayersByDefault: true,
-    defaultLineHeights: true,
-    standardFontWeights: true,
+  darkMode: false, // or 'media' or 'class'
+  theme: {
+    extend: {},
   },
-
-  theme: { extend: {} },
-  variants: {},
-
+  variants: {
+    extend: {},
+  },
   plugins: [require("@tailwindcss/typography")],
-};
+}
