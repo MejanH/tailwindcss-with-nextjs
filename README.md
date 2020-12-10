@@ -10,7 +10,7 @@ Visit [https://alhaqi.com/blog/tailwind-css-with-next-js-and-typography](https:/
 - Tailwind CSS
 - Typography(Tailwind Plugin)
 - PurgeCSS(removes unused css on build time)
-- PostCSS Preset Env(old browsers support)
+- PostCSS AutoPrefixer(Vendor prefix)
 - Next.js
 
 # How to Install
